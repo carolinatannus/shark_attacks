@@ -54,5 +54,6 @@ Using the shark attacks database, my goal was to understand *which countries hav
 ## Contact
   
   If you have any questions or comments, please let me know!
+  
   https://www.linkedin.com/in/carolinatannus/
   
