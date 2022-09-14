@@ -47,7 +47,9 @@ Using the shark attacks database, my goal was to understand *which countries hav
 
 ## Conclusion
  
-#### The countries with the highest fatality rate are: New Caledonia, Papua New Guinea, Reunion Island, Brazil and Bahamas, all with rates above 92%. It is interest to consider that the three first regions all belong to French territory.
+#### The countries with the highest fatality rate are: Philippines, India, Panama, Cuba and Mexico, all with rates above 49%. 
+
+It is also interest to note that the countries with the smallest percentage of fatal attacks - Australia, New Zealand, South Africa and USA - are all English-speaking regions. A relevant analysis would be understand if incidents are under-reported in countries that do not have English as their native language, for example.
  
  * Note: from the initial database with almost 26k entries and 24 columns, my final table had 15 rows and 3 columns.
 
